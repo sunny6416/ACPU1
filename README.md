@@ -1,4 +1,4 @@
-# ACPU1
+# ACPU profile
 <html>
 <head>
   <title>WEB1 - Welcome</title>
@@ -32,10 +32,7 @@
 <ol>  3) 세계의 모든 축제 가보기</ol>
 <ol>  4) 디제잉 해보기</ol>
 <ol>  5) 전교 1등</ol>
-  </oi>
-<ol> 너에 대한 한줄평: 동아리 냉에서는 아주 조용한 편이다, 하지만 친한 사람을 만나면 돌변하기 때문에 조심해야한다.</ol>
-  </p>
+<ol> 너에 대한 한줄평: 동아리 냉에서는 아주 조용한 편이다, 하지만 친한 사람을 만나면 돌변하기 때문에 조심해야한점 알아두세요!.</ol>
 </body>
-<style>
-body{background-color: gray}
+<style>body{background-color: gray}
 </html>
